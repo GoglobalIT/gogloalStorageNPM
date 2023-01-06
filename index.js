@@ -72,7 +72,7 @@ class GoglobalStoreage {
         localStorage.removeItem('KeyAccess');
     }
 }
-export default GoglobalStoreage
+module.exports = GoglobalStoreage;
 
 // create client (userid, keyaccsee)
 // endpoind login

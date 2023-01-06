@@ -1,0 +1,19 @@
+{
+  "name": "gogloalstoragenpm",
+  "version": "1.0.0",
+  "description": "to use\r <!-- init -->\r `npm i goglobal-it-storage --save`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoglobalIT/gogloalStorageNPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoglobalIT/gogloalStorageNPM/issues"
+  },
+  "homepage": "https://github.com/GoglobalIT/gogloalStorageNPM#readme"
+}
